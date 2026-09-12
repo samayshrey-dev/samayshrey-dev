@@ -1,6 +1,11 @@
 # 💫 About Me:
-Developing software projects and exploring innovative solutions to real-world problems.<br>Open source projects,AI-ML applications, and impactful software development initiatives.<br>Best practices in software architecture,scalable development and advanced engineering concepts<br>artificial inelligence, machine learning full stack development and cloud techonologies<br>software development, ai/ml, web developemnt, android development and ui/ux<br>I enjoy learning new techonologies by building practical projects and turning ideas into working solutions
-
+👨‍💻 About Me
+🚀 Developing software projects and exploring innovative solutions to real-world problems.
+🌱 Building Open Source projects, AI/ML applications, and impactful software solutions.
+🏗️ Exploring software architecture, scalable systems, and advanced engineering practices.
+🤖 Passionate about Artificial Intelligence, Machine Learning, Full-Stack Development, and Cloud Technologies.
+💻 Interested in Web Development, Android Development, AI/ML, and UI/UX Design.
+🧠 Constantly learning new technologies by building practical projects and turning ideas into working solutions.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/isomoii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/samayshrey-patnaik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samayshrey.p@gmail.com) 
