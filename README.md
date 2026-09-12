@@ -1,10 +1,10 @@
-# 💫 About Me:
-👨‍💻 About Me
-🚀 Developing software projects and exploring innovative solutions to real-world problems.
-🌱 Building Open Source projects, AI/ML applications, and impactful software solutions.
-🏗️ Exploring software architecture, scalable systems, and advanced engineering practices.
-🤖 Passionate about Artificial Intelligence, Machine Learning, Full-Stack Development, and Cloud Technologies.
-💻 Interested in Web Development, Android Development, AI/ML, and UI/UX Design.
+**💫 About Me:**
+
+🚀 Developing software projects and exploring innovative solutions to real-world problems.<br>
+🌱 Building Open Source projects, AI/ML applications, and impactful software solutions.<br>
+🏗️ Exploring software architecture, scalable systems, and advanced engineering practices.<br>
+🤖 Passionate about Artificial Intelligence, Machine Learning, Full-Stack Development, and Cloud Technologies.<br>
+💻 Interested in Web Development, Android Development, AI/ML, and UI/UX Design.<br>
 🧠 Constantly learning new technologies by building practical projects and turning ideas into working solutions.
 
 ## 🌐 Socials:
