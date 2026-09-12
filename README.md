@@ -1,10 +1,7 @@
-<div align="center">
-👋 Hey, I'm Samay Shrey Patnaik
-🚀 Software Developer • AI/ML Enthusiast • Open Source Builder
+<div align="center"> <h1>👋 Hey, I'm Samay Shrey Patnaik</h1> <h3>🚀 Software Developer • AI/ML Enthusiast • Open Source Builder</h3>
 Building practical solutions, exploring new technologies, and turning ideas into reality.
 
-</div>
-💫 About Me
+</div> <h2>💫 About Me</h2>
 🚀 Developing software projects and exploring innovative solutions to real-world problems.<br>
 🌱 Building Open Source projects, AI/ML applications, and impactful software solutions.<br>
 🏗️ Exploring software architecture, scalable systems, and advanced engineering practices.<br>
